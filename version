@@ -1,26 +1,30 @@
 {
-	"version": "2.0.0",
-	"comparisonMode": "0",
-	"minSystemVersion": "5.0",
-	"title": {
-		"es": "Título de la alerta",
-		"cat": "Títol de la alerta",
-		"en": "Alert title"
-	},
-	"message": {
-		"es": "Prueba en castellano.",
-		"cat": "Prova en català.",
-		"en": "Test in english."
-	},
-	"okButtonTitle": {
-		"es": "Vale",
-		"cat": "Val",
-		"en": "Ok"
-	},
-	"cancelButtonTitle": {
-		"es": "Cancelar",
-		"cat": "Cancel·lar",
-		"en": "Cancel"
-	},
-	"okButtonActionURL": "http://www.apple.com <http://www.apple.com/> "
+  "version": "2.0.1",
+  "comparisonMode": 0,
+  "minSystemVersion": "9.0",
+  "title": {
+    "es": "Nueva versión",
+    "cat": "Nova versió",
+    "en": "New version",
+    "fr": "Nouvelle version"
+  },
+  "message": {
+    "es": "Hay una nueva versión de Barcino 3D disponible para descargar.",
+    "cat": "Hi ha una nova versió de Barcino 3D disponible per descarregar.",
+    "en": "There is a new Barcino 3D version available to download.",
+    "fr": "Une nouvelle version de Barcino 3D est disponible au téléchargement."
+  },
+  "okButtonTitle": {
+    "es": "Actualizar",
+    "cat": "Actualitzar",
+    "en": "Update",
+    "fr": "Mettre à jour"
+  },
+  "cancelButtonTitle": {
+    "es": "Cancelar",
+    "cat": "Cancel·lar",
+    "en": "Cancel",
+    "fr": "Annuler"
+  },
+  "okButtonActionURL": "https://itunes.apple.com/us/app/barcino-3d-lite/id960741914?l=es&ls=1&mt=8"
 }
